@@ -28,8 +28,8 @@ function App() {
 }
 
 const StyledApp = styled.div`
-  color: white;
-  background-Color: #0a7851;
+  color: orange;
+  background-Color: #1a81d6;
 `;
 
 export default App;

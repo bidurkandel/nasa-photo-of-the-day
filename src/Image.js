@@ -23,8 +23,8 @@ export default function Image({title, photo, date, details}){
 
 //styled component
 const StyledImage = styled.div`
-    color: white;
-    background-Color: #266b99;
+    color: pink;
+    background-Color: #1586d6;
     font-size: 20px;
     margin:5px;
     
