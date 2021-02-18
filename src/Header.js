@@ -14,7 +14,7 @@ export default function Header(){
 //style
 const StyledHeader = styled.div`
     color: white;
-    background-Color: #003366;
+    background-Color: #269970;
     margin: 0;
     padding-top: 2rem;
 `;
